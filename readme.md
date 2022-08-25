@@ -2,11 +2,8 @@
 
 ## Concepts and Skills gained
 
-- Positioning in css
-    - Absolute
-    - Relative
-    - Static
-- Internal stylesheets used which is not a good practice.
+
+- Internal stylesheets.
 
 
 
