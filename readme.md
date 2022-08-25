@@ -1,6 +1,6 @@
-Responsive Street Style Landing Page designed using pure Html and Css.
+# Plant Home Page.
 
-## Concepts and Learnings
+## Concepts and Skills gained
 
 - Positioning in css
     - Absolute
